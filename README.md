@@ -12,3 +12,5 @@
 
 
 We learned how to use object-oriented programming in Java, manage data using ArrayLists, and handle user input with Scanner.
+
+Hemish R Mandadi
